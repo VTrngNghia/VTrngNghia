@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @VTrngNghia
-- 👀 I’m interested in software engineering, project management, and data science
-- 🌱 I’m currently learning server development
-- 💞️ I’m looking to collaborate on ...
-- 📫 Reach me at VTrngNghia@gmail.com
+- 📫 Reach me at work@trong-nghia.com
 
 <!---
 VTrngNghia/VTrngNghia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
